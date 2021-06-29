@@ -1,0 +1,27 @@
+﻿[CSPro Application]
+Version=CSPro 7.6
+Label=SPHAR
+Name=SPHAR
+AppType=DataEntry
+OperatorID=No
+PartialSave=Yes
+CAPI=Yes
+CaseTree=Always
+CreateListing=No
+CreateLog=No
+AutoAdvanceOnSelection=Yes
+ShowErrorMessageNumbers=No
+ComboBoxShowOnlyDiscreteValues=Yes
+ParadataCollection=AllEvents
+ParadataDeviceStateMinutes=5
+[AppCode]
+File=.\SPHAR.ent.apc
+[Help]
+File=.\SPHAR.ent.qsf
+[Forms]
+File=.\SPHAR.fmf
+[Dictionary Types]
+Dict-Type=.\SPHAR.dcf,Input,.\SPHAR.fmf
+[Sync]
+Server=ftp://bpsdki.online
+Direction=Put

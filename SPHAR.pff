@@ -1,0 +1,8 @@
+﻿[Run Information]
+Version=CSPro 7.6
+AppType=Entry
+
+[Files]
+Application=.\SPHAR.ent
+InputData=.\sphar.csdb
+Paradata=.\SPHAR.cslog

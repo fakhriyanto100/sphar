@@ -1,0 +1,484 @@
+﻿---
+fileType: Question Text
+version: CSPro 7.6
+languages:
+  - name: EN
+    label: English
+styles:
+  - name: Normal
+    className: normal
+    css: |
+      font-family: Arial;font-size: 16px;
+      
+  - name: Instruction
+    className: instruction
+    css: |
+      font-family: Arial;font-size: 14px;color: #0000FF;
+      
+  - name: Heading 1
+    className: heading1
+    css: |
+      font-family: Arial;font-size: 36px;
+      
+  - name: Heading 2
+    className: heading2
+    css: |
+      font-family: Arial;font-size: 24px;
+      
+  - name: Heading 3
+    className: heading3
+    css: |
+      font-family: Arial;font-size: 18px;
+      
+questions:
+  - name: BLOCKF167
+    conditions:
+      - questionText:
+          EN: |
+            F167 Apakah akibat yang anda alami?<p></p>
+            
+  - name: BLOCKF187
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><i>PV3: ORANG-ORANG DI LINGKUNGAN MASYARAKAT</i></b></p><p><b><i><br></i></b></p><p>Pertanyaan berikut menyangkut orang-orang di lingkungan masyarakat, termasuk guru, polisi, tokoh masyarakat atau agama, teman, teman sekelas bahkan orang asing</p><p><br></p><p>Apakah ada diantara orang-orang tersebut yang pernah:</p><p><b><i><br></i></b></p><p></p>
+            
+  - name: BLOCKF210
+    conditions:
+      - questionText:
+          EN: |
+            F210 Apakah akibat yang anda alami?<p></p>
+            
+  - name: BLOCKF217
+    conditions:
+      - questionText:
+          EN: |
+            F217 Apakah akibat yang anda alami?<p></p>
+            
+  - name: BLOCKF237
+    conditions:
+      - questionText:
+          EN: |
+            F237&nbsp;Apakah Anda menerima bantuan profesional dari:<p></p>
+            
+  - name: BLOCKF300
+    conditions:
+      - questionText:
+          EN: |
+            <p>KEKERASAN EMOSIONAL</p><p>Pertanyaan berikut tentang apa yang dikatakan oleh orang tua atau pengasuh kepada anda:</p><p>F300&nbsp;Apakah orang tua atau seseorang yang seperti orang tua ada pernah:<p></p></p>
+            
+  - name: BLOCKH10
+    conditions:
+      - questionText:
+          EN: |
+            <b><span style="font-size: 18px;">H10. Apakah rumah tangga ini memiliki perabotan berikut:</span></b><p></p>
+            
+  - name: BLOCKH17
+    conditions:
+      - questionText:
+          EN: |
+            <b><span style="font-size: 18px;">H17. Apakah anggota keluarga Anda ada yang memiliki:</span></b><p></p>
+            
+  - name: BLOCKH9
+    conditions:
+      - questionText:
+          EN: |
+            <b><span style="font-size: 18px;">H9. Apakah keluarga/rumah tangga Anda memiliki:</span></b><p></p>
+            
+  - name: F100
+    conditions:
+      - questionText:
+          EN: |
+            <p><b>F100. PV: KEKERASAN FISIK</b></p><p></p><p><b>PV1: KEKERASAN OLEH PASANGAN</b></p><p>Pertanyaan berikut menyangkut segala hal yang bisa terjadi terhadap anak perempuan dan perempuan dewasa yang mempunyai pasangan atau pacar atau sudah menikah. Ingat, anda dapat melewati tiap pertanyaan yang tidak ingin anda jawab.</p><p><b>Apakah pasangan atau pacar atau suami anda pernah:</b></p><p></p>
+            
+  - name: F108
+    conditions:
+      - questionText:
+          EN: |
+            Apa akibat yang anda alami?<p></p>
+            
+  - name: F115
+    conditions:
+      - questionText:
+          EN: |
+            Apa akibat yang anda alami?<p></p>
+            
+  - name: F123
+    conditions:
+      - questionText:
+          EN: |
+            Apa akibat yang anda alami?<p></p>
+            
+  - name: F130
+    conditions:
+      - questionText:
+          EN: |
+            Apa akibat yang anda alami?<p></p>
+            
+  - name: F138
+    conditions:
+      - questionText:
+          EN: |
+            Apa akibat yang anda alami?<p></p>
+            
+  - name: F145
+    conditions:
+      - questionText:
+          EN: |
+            Apa akibat yang anda alami?<p></p>
+            
+  - name: F146
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><i>PV : MENJADI PELAKU</i></b></p><p>F146. Apakah anda pernah melakukan hal-hal berikut terhadap pasangan anda?</p><p></p><p></p>
+            
+  - name: F147
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><i>PV2. ORANG TUA DAN KERABAT DEWASA LAINNYA</i></b></p><p>Pertanyaan berikut menyangkut orang tua dan kerabat dewasa lainnya. Ingat anda dapat melewati setiap pertanyaan yang tidak ingin anda jawab.</p><p>F147. Apakah orang tua atau kerabat lainnya pernah:<p></p></p>
+            
+  - name: F154
+    conditions:
+      - questionText:
+          EN: |
+            F154. Apa akibat yang anda alami?<p></p>
+            
+  - name: F160
+    conditions:
+      - questionText:
+          EN: |
+            F160. Apa akibat yang anda alami?<p></p>
+            
+  - name: F173
+    conditions:
+      - questionText:
+          EN: |
+            F173 Apakah akibat yang anda alami?<p></p>
+            
+  - name: F180
+    conditions:
+      - questionText:
+          EN: |
+            F180 Apakah akibat yang anda alami?<p></p>
+            
+  - name: F186
+    conditions:
+      - questionText:
+          EN: |
+            F186 Apakah akibat yang anda alami?<p></p>
+            
+  - name: F195
+    conditions:
+      - questionText:
+          EN: |
+            F195 Apakah akibat yang anda alami?<p></p>
+            
+  - name: F202
+    conditions:
+      - questionText:
+          EN: |
+            F202 Apakah akibat yang anda alami?<p></p>
+            
+  - name: F29
+    conditions:
+      - questionText:
+          EN: |
+            <p><b>F29. SIKAP TERHADAP GENDER</b></p><p><b>Menurut anda, apakah seorang suami berhak memukul istrinya jika: (<i>baca kategori di bawah</i>)</b></p><p></p>
+            
+  - name: F30
+    conditions:
+      - questionText:
+          EN: |
+            <b>F30. Apakah anda setuju atau tidak setuju bila: (<i>baca kategori di bawah</i>)</b><p></p>
+            
+  - name: F33
+    conditions:
+      - questionText:
+          EN: |
+            <p><b>F33. MENYAKSIKAN KEKERASAN FISIK</b></p><p>Pertanyaan di bawah ini menyangkut kekerasan fisik yang dilakukan oleh orang asing atau orang-orang yang anda kenal baik di rumah atau di lingkungan anda.</p><p><b>Apakah selama ini anda pernah:</b></p><p></p>
+            
+  - name: F700_F1000
+    conditions:
+      - questionText:
+          EN: |
+            <p>F700.&nbsp;<b><i>Kekerasan Seksual : Perlakuan Salah</i></b></p><p>Anak perempuan dan perempuan dewasa mungkin mengalami kontak seksual yang tidak dikenhedaki dengan orang yang mereka kenal dengan baik, seperti pacar, anggota keluarga , teman atau orang yang tidak dikenal sekalipun. Pertanyaan dalam bagian ini bersifat pribadi dan mungkin tidak nyaman untuk dijawab dan anda dapat melewatkan pertanyaan yang tidak nyaman untuk menjawabnya.</p><p></p>
+  - name: SPHAR_DICT.F1
+    conditions:
+      - questionText:
+          EN: |
+            Tuliskan waktu dalam format (jj:mm) contoh 07:30<p></p>
+            
+  - name: SPHAR_DICT.F101
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV1A</i></b><p></p>
+            
+  - name: SPHAR_DICT.F102
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV1A: KEJADIAN TERAKHIR</i></b><p></p>
+            
+  - name: SPHAR_DICT.F109
+    conditions:
+      - questionText:
+          EN: |
+            <b><i><span style="font-size: 18px;">PV1A: PERTAMA KALI</span></i></b><p></p>
+            
+  - name: SPHAR_DICT.F116
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV1B</i></b><p></p>
+            
+  - name: SPHAR_DICT.F117
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV1B: KEJADIAN TERAKHIR</i></b><p></p>
+            
+  - name: SPHAR_DICT.F125
+    conditions:
+      - questionText:
+          EN: |
+            <b><i><span style="font-size: 18px;">PV1B: PERTAMA KALI</span></i></b><p></p>
+            
+  - name: SPHAR_DICT.F131
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PVI1C</i></b><p></p>
+            
+  - name: SPHAR_DICT.F132
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV1C: KEJADIAN TERAKHIR</i></b><p></p>
+            
+  - name: SPHAR_DICT.F139
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV1C: PERTAMA KALI</i></b><p></p>
+            
+  - name: SPHAR_DICT.F1407
+    conditions:
+      - questionText:
+          EN: |
+            Tuliskan waktu dalam format (jj:mm) contoh 07:30<p></p>
+            
+  - name: SPHAR_DICT.F148
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV2A</i></b><p></p>
+            
+  - name: SPHAR_DICT.F149
+    conditions:
+      - questionText:
+          EN: |
+            PV2A. KEJADIAN TERAKHIR<p></p>
+            
+  - name: SPHAR_DICT.F155
+    conditions:
+      - questionText:
+          EN: |
+            PV2A: PERTAMA KALI<p></p>
+            
+  - name: SPHAR_DICT.F161
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV2B</i></b><p></p>
+            
+  - name: SPHAR_DICT.F162
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV2B. KEJADIAN TERAKHIR</i></b><p></p>
+            
+  - name: SPHAR_DICT.F168
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV2B: PERTAMA KALI</i></b><p></p>
+            
+  - name: SPHAR_DICT.F174
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV2C:&nbsp;</i></b><p></p>
+            
+  - name: SPHAR_DICT.F176
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV2C: KEJADIAN TERAKHIR</i></b><p></p>
+            
+  - name: SPHAR_DICT.F181
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV2C: PERTAMA KALI</i></b><p></p>
+            
+  - name: SPHAR_DICT.F188
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV3A:&nbsp;</i></b><p></p>
+            
+  - name: SPHAR_DICT.F189
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV3A: KEJADIAN TERAKHIR</i></b><p></p>
+            
+  - name: SPHAR_DICT.F196
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV3A: PERTAMA KALI</i></b><p></p>
+            
+  - name: SPHAR_DICT.F203
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV3B:</i></b><p></p>
+            
+  - name: SPHAR_DICT.F204
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV3B: KEJADIAN TERAKHIR</i></b><p></p>
+            
+  - name: SPHAR_DICT.F211
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV3B: PERTAMA KALI</i></b><p></p>
+            
+  - name: SPHAR_DICT.F218
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV3C:</i></b><p></p>
+            
+  - name: SPHAR_DICT.F219
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV3C: KEJADIAN TERAKHIR</i></b><p></p>
+            
+  - name: SPHAR_DICT.F23
+    conditions:
+      - questionText:
+          EN: |
+            <i><b>PERKAWINAN DAN PASANGAN</b></i><p></p>
+            
+  - name: SPHAR_DICT.F233
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>PV PELAYANAN</i></b><p></p>
+            
+  - name: SPHAR_DICT.F301
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>EV1</i></b><p></p>
+            
+  - name: SPHAR_DICT.F302
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>EV1: KEJADIAN TERAKHIR</i></b><p></p>
+            
+  - name: SPHAR_DICT.F305
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>EV1: PERTAMA KALI</i></b><p></p>
+            
+  - name: SPHAR_DICT.F31
+    conditions:
+      - questionText:
+          EN: |
+            <b><i>KEAMANAN</i></b><p></p>
+            
+  - name: SPHAR_DICT.F400
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><i>PERILAKU SEKSUAL</i></b></p><p>Pertanyaan berikut mengenai aktivitas seksual anda<p></p></p>
+            
+  - name: SPHAR_DICT.F409
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><i><span style="font-size: 18px;">SEJARAH PERILAKU SEKSUAL DAN RESIKONYA:</span></i></b></p><p><span style="font-size: 18px;">Pertanyaan berikut mengenai orang yang melakukan hubungan seks dengan anda.</span></p><p></p>
+            
+  - name: SPHAR_DICT.F500
+    conditions:
+      - questionText:
+          EN: |
+            <b style="font-size: 18px;"><i>KEKERASAN SEKSUAL: IMBALAN UANG, BARANG, ATAU BANTUAN UNTUK SEKS ATAU EKSPLOITASI</i></b><p></p>
+            
+  - name: SPHAR_DICT.F701
+    conditions:
+      - questionText:
+          EN: |
+            <p><b>SV1 Sentuhan tanpa izin sepanjang hidup.</b></p><p><b></b><br>Pertanyaan berikut terkait dengan waktu dimana seseorang menyentuh anda secara seksual tanpa seijin anda , namun orang tersebut tidak mencoba dan memaksa anda untuk berhubungan seksual</p><p><b>Berapa kali hal ini terjadi?</b></p><p></p>
+  - name: SPHAR_DICT.F702
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><i>SV1A: Sentuhan-Terkahir Kali</i></b><br></p><p>Sekarang Pikirkan Tentang Kejadian Yang Terakhir Apakah Kejadian Itu Terjadi Dalam 12 Bulan Terakhir?</p><p></p>
+  - name: SPHAR_DICT.F703
+    conditions:
+      - questionText:
+          EN: |
+            Isikan umur<p></p>
+  - name: SPHAR_DICT.F707
+    conditions:
+      - questionText:
+          EN: |
+            Siapa orang tersebut?<p></p>
+  - name: SPHAR_DICT.F712
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><i>SV1B: Sentuhan-Pertama Kali&nbsp;</i></b></p><p>Apakah Kejadian Itu Terjadi Dalam 12 Bulan Terakhir?</p><p></p>
+  - name: SPHAR_DICT.F717
+    conditions:
+      - questionText:
+          EN: |
+            Siapa orang tersebut?<p></p>
+  - name: SPHAR_DICT.F801
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><i>SV2 Upaya Seksual, Sepanjang Hidup</i></b></p><p>Dalam Hidup Anda Berapa Kali Ada Orang Mencoba Berhubungan Seks Dengan Anda Namu Tidak Berhasil?</p><p></p>
+  - name: SPHAR_DICT.F802
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><i>SV2A Upaya Seksual - Terakhir Kali</i></b></p><p>Coba Ingat Tentang Kejadian Yang Terakhir Kali Apakah Kejadian Itu Terjadi Dalam 12 Bulan Terakhir?</p><p></p>
+  - name: SPHAR_DICT.F812
+    conditions:
+      - questionText:
+          EN: |
+            F812.&nbsp;&nbsp;Apakah Kegiatan Ini Terjadi Dalam 12 Bulan Terakhir?<p></p>
+  - name: SPHAR_DICT.F817
+    conditions:
+      - questionText:
+          EN: |
+            Siapa orang tersebut?<p></p>
+  - name: SPHAR_DICT.H15
+    conditions:
+      - questionText:
+          EN: |
+            
+...
